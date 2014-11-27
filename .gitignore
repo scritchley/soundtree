@@ -3,6 +3,9 @@
 *.a
 *.so
 
+# Soundtree dot files
+.soundtree
+
 # Folders
 _obj
 _test
